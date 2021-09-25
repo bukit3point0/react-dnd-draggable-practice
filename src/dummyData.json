@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "color": "red",
+    "letter": "A",
+    "input_type": "number"
+  },
+  {
+    "id": 2,
+    "color": "orange",
+    "letter": "B",
+    "input_type": "text"
+  },
+  {
+    "id": 3,
+    "color": "yellow",
+    "letter": "C",
+    "input_type": "select"
+  },
+  {
+    "id": 4,
+    "color": "green",
+    "letter": "D",
+    "input_type": "checkbox"
+  },
+  [
+    {
+      "id": 5,
+      "color": "blue",
+      "letter": "E",
+      "input_type": "checkbox"
+    },
+    {
+      "id": 6,
+      "color": "indigo",
+      "letter": "F",
+      "input_type": "text"
+    }
+  ],
+  {
+    "id": 7,
+    "color": "purple",
+    "letter": "G",
+    "input_type": "select"
+  }
+]
